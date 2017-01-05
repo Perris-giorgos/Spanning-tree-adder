@@ -1,0 +1,10 @@
+H 2141964 10 3 0 3 3 0 0 0 0
+L 4 ieee 19 $MODEL_TECH/../ieee
+L 3 std 18 $MODEL_TECH/../std
+L 4 work 4 work
+D 21 work.carries(my_arch) N>MIH__GVo;h63Aje09Th3 2 1
+D 24 work.pg_group_2(my_arch) B@dID<;IY@G:WDD1U3mZo1 0 1
+D 24 work.pg_group_3(my_arch) ]=8Y??6X[mL?6V=H7L:iZ3 1 1
+2 0  0 LIR;fKcW]cc>Md9R0YaoS3 1 1 1
+2 0  0 Y=2h^^[18c5cc[c7GaP_i1 0 0 1
+2 0  0 1`RLJX6n3BM>mTc<DY1:R3 2 2 1

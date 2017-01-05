@@ -1,0 +1,283 @@
+m255
+13
+cModel Technology
+dC:\Users\BlueLemon\Documents\labs\VHDL
+T_opt
+VCXmI67L2iMSd=9mj6H4a60
+04 13 7 work spanning_tree my_arch 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2c;35
+T_opt1
+V>4RQnf4adh2J4@RdHH1L12
+04 19 7 work spanning_tree_adder my_arch 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2c;35
+T_opt2
+V0Q_1MR:L:S`k0a]SO<[PV0
+04 7 7 work carries my_arch 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2c;35
+Eadder_8_bit
+w1372249612
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/adder_8_bit.vhd
+l0
+L5
+V_ZK`2Hoc_[OKa:E8XM]oL0
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Aripple_carry
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work adder_8_bit _ZK`2Hoc_[OKa:E8XM]oL0
+l14
+L11
+VUJldlofb_Rk5o@_W7@2:H2
+OE;C;6.2c;35
+32
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -2002 -explicit
+tExplicit 1
+Ecarries
+w1372351367
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/Carries.vhd
+l0
+L4
+V9b:M^Xg;I4jQc>3:]GLDI0
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work carries 9b:M^Xg;I4jQc>3:]GLDI0
+l28
+L9
+VN>MIH__GVo;h63Aje09Th3
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1
+Elook_ahead_8_bit
+w1372252561
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/look_ahead_8_bit.vhd
+l0
+L5
+VbeBKjj59C=f?IBI_<A1SR1
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work look_ahead_8_bit beBKjj59C=f?IBI_<A1SR1
+l28
+L11
+VO]UjBO=F5S`FBzh_F<4C=0
+OE;C;6.2c;35
+32
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -2002 -explicit
+tExplicit 1
+Emux_2to1
+w1372249817
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL/MUX_2to1.vhd
+l0
+L6
+VNTc1Ib1U9]BbM`SaB?lC30
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work mux_2to1 NTc1Ib1U9]BbM`SaB?lC30
+l16
+L13
+V`8F@WcCNY1R6aI<<MCLT<3
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1
+Epg_1bit
+w1372251924
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_1bit.vhd
+l0
+L4
+V4P3jg2a4fcd8lJI96oMH:2
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work pg_1bit 4P3jg2a4fcd8lJI96oMH:2
+l10
+L9
+VNO7deh0F]>N763zCGf@n53
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1
+Epg_24bit
+w1372252721
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_24bit.vhd
+l0
+L4
+VkNQ4:`Bk_R_=4SO403R0a1
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work pg_24bit kNQ4:`Bk_R_=4SO403R0a1
+l16
+L9
+Vec@Fj^<1T:QT^>1UlFAlB0
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1
+Epg_3to2
+w1372257608
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_3to2.vhd
+l0
+L4
+Veadc_aD^dF5^7n_^WlSHl0
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+w1372258353
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work pg_3to2 eadc_aD^dF5^7n_^WlSHl0
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_group_2.vhd
+l11
+L10
+ViJ?BBf;bCNoJ9^PTQA6Un1
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1
+Epg_group_2
+w1372260846
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_group_2.vhd
+l0
+L4
+V=Oe0ekcI8T1SNz9Z_oKnK1
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work pg_group_2 =Oe0ekcI8T1SNz9Z_oKnK1
+l11
+L10
+VB@dID<;IY@G:WDD1U3mZo1
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1
+Epg_group_3
+w1372261022
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_group_3.vhd
+l0
+L4
+VWfSJ4=ZVmDZNHX17ohYTV0
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work pg_group_3 WfSJ4=ZVmDZNHX17ohYTV0
+l12
+L10
+V]=8Y??6X[mL?6V=H7L:iZ3
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1
+Espanning_tree
+w1372270754
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/spanning_tree.vhd
+l0
+L4
+VfE`IRBo`=zM5A=oo[7^o10
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work spanning_tree fE`IRBo`=zM5A=oo[7^o10
+l30
+L9
+VaS2mQiIeO4eAzF0O=A6AF1
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1
+Espanning_tree_adder
+w1372350374
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\BlueLemon\Documents\labs\VHDL_Lab\spanning_tree_adder
+FC:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/spanning_tree_adder.vhd
+l0
+L4
+V[ARM[@662[R^==C;X>XYN0
+OE;C;6.2c;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Amy_arch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work spanning_tree_adder [ARM[@662[R^==C;X>XYN0
+l36
+L9
+VS>;`:>SUUGfLdjFUNQ6KL2
+OE;C;6.2c;35
+32
+M1 ieee std_logic_1164
+o-work work -2002 -explicit
+tExplicit 1

@@ -1,0 +1,18 @@
+H 2141964 10 3 0 7 7 0 0 0 0
+L 4 ieee 19 $MODEL_TECH/../ieee
+L 3 std 18 $MODEL_TECH/../std
+L 4 work 4 work
+D 30 work.adder_8_bit(ripple_carry) UJldlofb_Rk5o@_W7@2:H2 0 1
+D 21 work.carries(my_arch) N>MIH__GVo;h63Aje09Th3 5 1
+D 30 work.look_ahead_8_bit(my_arch) O]UjBO=F5S`FBzh_F<4C=0 4 1
+D 22 work.mux_2to1(my_arch) `8F@WcCNY1R6aI<<MCLT<3 3 1
+D 24 work.pg_group_2(my_arch) B@dID<;IY@G:WDD1U3mZo1 1 1
+D 24 work.pg_group_3(my_arch) ]=8Y??6X[mL?6V=H7L:iZ3 2 1
+D 33 work.spanning_tree_adder(my_arch) S>;`:>SUUGfLdjFUNQ6KL2 6 1
+2 0  0 6Zb07ibQk;:beL[:EGHYN0 6 6 1
+2 0  0 1`RLJX6n3BM>mTc<DY1:R3 5 5 1
+2 0  0 LIR;fKcW]cc>Md9R0YaoS3 2 2 1
+2 0  0 Y=2h^^[18c5cc[c7GaP_i1 1 1 1
+2 0  0 _3llF39=jXJQm=1dkI3E33 3 3 1
+2 0  0 UX4aVc?T1]GJD]P[RnV[g2 0 0 1
+2 0  0 hbJ0kb@ngQe@fILB@VnRB3 4 4 1

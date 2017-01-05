@@ -1,0 +1,73 @@
+C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/Carries.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/Carries.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity carries
+-- Compiling architecture my_arch of carries
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/spanning_tree.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/spanning_tree.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity spanning_tree
+-- Compiling architecture my_arch of spanning_tree
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_group_3.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_group_3.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity pg_group_3
+-- Compiling architecture my_arch of pg_group_3
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/adder_8_bit.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/adder_8_bit.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity adder_8_bit
+-- Compiling architecture ripple_carry of adder_8_bit
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL/MUX_2to1.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL/MUX_2to1.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_2to1
+-- Compiling architecture my_arch of mux_2to1
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_1bit.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_1bit.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity pg_1bit
+-- Compiling architecture my_arch of pg_1bit
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_24bit.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_24bit.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity pg_24bit
+-- Compiling architecture my_arch of pg_24bit
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/spanning_tree_adder.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/spanning_tree_adder.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity spanning_tree_adder
+-- Compiling architecture my_arch of spanning_tree_adder
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_group_2.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/PG_group_2.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity pg_group_2
+-- Compiling architecture my_arch of pg_group_2
+
+} {} {}} C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/look_ahead_8_bit.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/BlueLemon/Documents/labs/VHDL_Lab/spanning_tree_adder/look_ahead_8_bit.vhd
+Model Technology ModelSim SE vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity look_ahead_8_bit
+-- Compiling architecture my_arch of look_ahead_8_bit
+
+} {} {}}
